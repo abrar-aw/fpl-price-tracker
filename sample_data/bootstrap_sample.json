@@ -1,0 +1,22 @@
+{
+  "teams": [
+    {"id": 1, "short_name": "ARS", "name": "Arsenal"},
+    {"id": 2, "short_name": "MCI", "name": "Man City"},
+    {"id": 3, "short_name": "LIV", "name": "Liverpool"},
+    {"id": 4, "short_name": "CHE", "name": "Chelsea"},
+    {"id": 5, "short_name": "TOT", "name": "Spurs"},
+    {"id": 6, "short_name": "MUN", "name": "Man Utd"}
+  ],
+  "elements": [
+    {"id": 1, "web_name": "Saka", "team": 1, "element_type": 3, "now_cost": 90, "form": "6.5", "selected_by_percent": "35.2", "total_points": 120, "status": "a"},
+    {"id": 2, "web_name": "Haaland", "team": 2, "element_type": 4, "now_cost": 145, "form": "8.2", "selected_by_percent": "65.0", "total_points": 180, "status": "a"},
+    {"id": 3, "web_name": "Salah", "team": 3, "element_type": 3, "now_cost": 130, "form": "7.1", "selected_by_percent": "55.5", "total_points": 165, "status": "a"},
+    {"id": 4, "web_name": "Palmer", "team": 4, "element_type": 3, "now_cost": 65, "form": "5.5", "selected_by_percent": "20.1", "total_points": 95, "status": "a"},
+    {"id": 5, "web_name": "Son", "team": 5, "element_type": 3, "now_cost": 95, "form": "4.2", "selected_by_percent": "15.0", "total_points": 88, "status": "a"},
+    {"id": 6, "web_name": "Fernandes", "team": 6, "element_type": 3, "now_cost": 85, "form": "5.0", "selected_by_percent": "18.3", "total_points": 90, "status": "a"},
+    {"id": 7, "web_name": "Gabriel", "team": 1, "element_type": 2, "now_cost": 55, "form": "4.8", "selected_by_percent": "22.0", "total_points": 80, "status": "a"},
+    {"id": 8, "web_name": "Ederson", "team": 2, "element_type": 1, "now_cost": 55, "form": "3.9", "selected_by_percent": "12.5", "total_points": 75, "status": "a"},
+    {"id": 9, "web_name": "Van Dijk", "team": 3, "element_type": 2, "now_cost": 65, "form": "5.1", "selected_by_percent": "25.0", "total_points": 92, "status": "a"},
+    {"id": 10, "web_name": "Jackson", "team": 4, "element_type": 4, "now_cost": 75, "form": "4.0", "selected_by_percent": "10.2", "total_points": 70, "status": "d"}
+  ]
+}

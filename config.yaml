@@ -1,0 +1,10 @@
+# Configuration for the FPL Price & Fixture Tracker
+
+output_file: "output/fpl_report.xlsx"
+price_history_dir: "data/price_history"
+
+# How many upcoming fixtures to show per player, color-coded by difficulty.
+num_fixtures: 3
+
+# Minimum price change (in £m) to include on the Price Changes sheet.
+min_price_change: 0.1
