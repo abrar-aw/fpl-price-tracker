@@ -1,17 +1,3 @@
-"""
-FPL Price & Fixture Tracker
-----------------------------
-Fetches live player data from the official Fantasy Premier League API,
-builds a report showing price, form, and ownership for every player
-alongside their next few fixtures color-coded by difficulty (matching
-the FPL app's green-to-red scale), and tracks day-to-day price changes
-by saving a snapshot each time it runs.
-
-Usage:
-    python main.py              # fetch live data from the FPL API
-    python main.py --sample     # use bundled sample data (no internet needed)
-"""
-
 import argparse
 import logging
 import sys
